@@ -1,0 +1,38 @@
+[
+    {
+        "type": "black",
+        "name": "Ассамский чёрный",
+        "description": "Крепкий чай с насыщенным вкусом и терпким послевкусием",
+        "image": "https://images.unsplash.com/photo-1558071250-7a3a43d1a5e3",
+        "taste": 80,
+        "strength": 70,
+        "tags": ["black", "strong"]
+    },
+    {
+        "type": "green",
+        "name": "Молочный улун",
+        "description": "Нежный чай с кремовым вкусом и цветочным ароматом",
+        "image": "https://images.unsplash.com/photo-1558071271-41a5a0d7a24a",
+        "taste": 30,
+        "strength": 40,
+        "tags": ["green", "flower"]
+    },
+    {
+        "type": "herbal",
+        "name": "Ромашковый сбор",
+        "description": "Лёгкий травяной чай с успокаивающим эффектом",
+        "image": "https://images.unsplash.com/photo-1591256503646-4c40c7a1a7a9",
+        "taste": 20,
+        "strength": 20,
+        "tags": ["herbal", "relax"]
+    },
+    {
+        "type": "pure",
+        "name": "Белый чай",
+        "description": "Деликатный вкус с естественной сладостью",
+        "image": "https://images.unsplash.com/photo-1585435558347-915499a84a6b",
+        "taste": 50,
+        "strength": 10,
+        "tags": ["pure", "delicate"]
+    }
+]
